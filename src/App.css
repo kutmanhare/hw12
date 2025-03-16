@@ -9,13 +9,14 @@
   width: 600px;
   
   min-height: 100vh;
+  border: 1px black solid;
 }
 
 .photo-card {
   background-color: rgb(160, 160, 160);
   text-align: center;
   width: 180px;
-  
+  border: 1px black solid;
 }
 
 
@@ -24,11 +25,17 @@
   width: 100%;
   height: auto;
   border-radius: 8px;
+  border: 1px black solid;
   
 }
 
 h4 {
   font-size: 14px;
   margin-top: 10px;
-  color: #333;
+  
+  border: 1px black solid;
+}
+.photo-title{
+  border: 1px black solid;
+  width: 14px;
 }
